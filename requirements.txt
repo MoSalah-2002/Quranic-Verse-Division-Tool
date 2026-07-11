@@ -1,0 +1,6 @@
+pyarabic
+alfanous3
+yt_dlp
+git+https://github.com/MahmoudAshraf97/ctc-forced-aligner.git
+pyngrok
+streamlit
