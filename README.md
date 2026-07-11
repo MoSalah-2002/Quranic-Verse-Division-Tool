@@ -17,7 +17,7 @@ The tool helps users extract accurate audio clips for specific Quran verses, edi
 
 ## 🖼️ Application Workflow
 
-1. Enter a Quran recitation YouTube link
+1. Enter a Quran recitation Audio file
 2. Select the Surah name
 3. Choose starting and ending Ayah numbers
 4. Run the processing pipeline
