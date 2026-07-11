@@ -1,8 +1,6 @@
 # 📖 Quranic Verse Division Tool
 
-A Streamlit-based application that automatically divides Quran recitation audio into individual verse (Ayah) audio segments using speech alignment techniques.
-
-The tool helps users extract accurate audio clips for specific Quran verses, edit segments, and export the results for further use.
+an AI-powered application that automatically divides Quran recitation audio into individual verse segments. The tool uses audio processing and alignment techniques to detect verse timestamps, extract separate audio clips, and provide an interactive editor for refining the segments. It helps users create accurate, organized Quran verse audio files efficiently.
 
 ## ✨ Features
 
@@ -22,7 +20,7 @@ The tool helps users extract accurate audio clips for specific Quran verses, edi
 3. Choose starting and ending Ayah numbers
 4. Run the processing pipeline
 5. Review and edit generated audio segments
-6. Download the final audio package
+6. Download the final audio zip file
 
 ## 🛠️ Technologies Used
 
@@ -96,15 +94,16 @@ The application can be deployed using:
 
 ## 📌 Future Improvements
 
-* Add more reciters
 * Improve alignment accuracy
 * Support more audio sources
 * Add cloud storage support
-* Improve mobile compatibility
+* Make the surah detect automatically
+* Automatic detection of the surah boundaries in the file
+* Support for multiple surahs
 
 ## 👨‍💻 Author
 
-Mohmed Salah
+Mohmed Salah (Mo salah)
 
 ---
 
